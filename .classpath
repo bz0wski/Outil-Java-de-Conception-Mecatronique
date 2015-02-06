@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="ApachePOI/poi-3.10-FINAL-20140208.jar" sourcepath="/ApachePOI/poi-src-3.10-FINAL-20140208.zip"/>
+	<classpathentry kind="var" path="ApachePOI/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="var" path="ApachePOI/poi-ooxml-3.10-FINAL-20140208.jar" sourcepath="/ApachePOI/poi-src-3.10-FINAL-20140208.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/eclipse/plugins/poi-3.10-FINAL/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="ApachePOI/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="var" path="ApachePOI/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="var" path="ApachePOI/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="var" path="ApachePOI/dom4j.jar" sourcepath="/ApachePOI/dom4j-1.6.1-hudson-1-sources.jar.zip"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="var" path="Eclipse_PLUGINS/org.eclipse.text_3.5.300.v20130515-1451.jar" sourcepath="/Eclipse_PLUGINS/org.eclipse.text.source_3.5.300.v20130515-1451.jar"/>
+	<classpathentry kind="var" path="Eclipse_PLUGINS/org.eclipse.jface.text_3.8.101.v20130802-1147.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.databinding.property_1.4.200.v20140214-0004.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.jface.databinding_1.6.200.v20140528-1422.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.swt_3.103.0.v20140605-2008.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.runtime.compatibility_3.2.200.v20140128-0851.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.runtime_3.10.0.v20140318-2214.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.commands_3.6.100.v20140528-1422.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.databinding_1.4.1.v20140214-0004.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.databinding.beans_1.2.200.v20140214-0004.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.osgi_3.10.0.v20140606-1445.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.ui_3.106.0.v20140519-0906.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/simple-xml-2.7.1/simple-xml-2.7.1/jar/simple-xml-2.7.1.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.jface_3.10.0.v20140604-0740.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/swt-4.4-cocoa-macosx-x86_64/swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

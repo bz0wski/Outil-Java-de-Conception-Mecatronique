@@ -1,0 +1,8 @@
+org.eclipse.wb.swt
+org.ica.briquePackage
+org.ica.enumeration
+org.ica.exceptions
+org.ica.main
+org.ica.resources
+org.ica.uiElements
+org.ica.utilityClasses
